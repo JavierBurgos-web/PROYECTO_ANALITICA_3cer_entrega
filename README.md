@@ -6,11 +6,8 @@
 </br>
 
 **📂 ARCHIVOS**
-- **1_Notebook_limpieza.**
-- **2_Notebook_implementacion.**
-- **Diccionario de variables.**
+- **Notebook.**
 - **Informe**
-- **dataset_limpio.** Datos con selección de variables
   
 </br>
 
